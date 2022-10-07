@@ -1,0 +1,21 @@
+img {
+  width: 100px;  
+  height: auto;
+  margin-top: 4px;  
+}
+
+h1 {
+  color: whitesmoke;
+}
+
+.topofpage {
+  text-align: center;
+}
+
+br {
+  min-height: 5px;
+}
+
+.btn-primary {
+  margin: 10px;
+}

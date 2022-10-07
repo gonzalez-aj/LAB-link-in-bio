@@ -1,7 +1,23 @@
-img {
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.angiepic {
   width: 100px;  
   height: auto;
-  margin-top: 4px;  
+  margin-top: 4px; 
+}
+
+img.socialmediaicons {
+  width: 200px;  
+  height: auto;
+  margin: 5px;
 }
 
 h1 {
@@ -12,10 +28,10 @@ h1 {
   text-align: center;
 }
 
-br {
-  min-height: 5px;
+.btn-primary {
+  margin: 10px;  
 }
 
-.btn-primary {
-  margin: 10px;
+.btn.bottommargin{
+  margin-bottom: 5px;
 }

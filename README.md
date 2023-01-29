@@ -1,4 +1,6 @@
-# Link In Bio
+# Angie's Link In Bio[![Netlify Status](https://api.netlify.com/api/v1/badges/ebf9307e-3d26-4c06-a6df-f26dbf207cbb/deploy-status)](https://app.netlify.com/sites/gonzalez-landing-page/deploys)
+
+[View the Landing Page here](https://gonzalez-landing-page.netlify.app/)
 
 ## Get Started
 - [Clone](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
